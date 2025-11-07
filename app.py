@@ -1,4 +1,6 @@
-*# bin bash
-ls
-cd touch 
-merge
+good morning
+this 
+is 
+practice 
+purpose 
+git
